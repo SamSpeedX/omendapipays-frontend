@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "name": "Omenda Pi Pays",
+  "headline": "Omenda Pi Pays - Secure Payments over the world.",
+  "description": "Shop and pay easily over the world with Pi Coin on Omenda Pi Pays.",
+  "url": "https://omendapipays.shop",
+  "logo": "/favicon_32x32.png",
+  "author": {
+    "@type": "Person",
+    "name": "Sam Software",
+    "url": "https://simonsoftware.xyz",
+    "image": "https://api.omendapipays.shop/assets/image/ceo1.jpg",
+    "sameAs": [
+      "https://www.facebook.com/samochuu",
+      "https://www.tiktok.com/@samochu"
+    ]
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+255 778 760 701",
+    "contactType": "Customer Service"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Sam Software",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/favicon_32x32.png"
+    }
+  },
+  "sameAs": [
+  "https://www.tiktok.com/@omenda.pi.pays"
+  ]
+}
